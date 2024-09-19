@@ -1,7 +1,9 @@
 # A News Website with the name FlashFeed
 Used HTML5, CSS, JS, ReactJS, Bootstrap and NewsAPI.
 
-## Use This Link to visit the website. [link](http://localhost:3000/)
+## Use This Link to visit the website. 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Use the package to start the project .
 
